@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name mega)(type KiCad)(uri ${KIPRJMOD}/libfp/mega.pretty)(options "")(descr ""))
   (lib (name pi-display-conn)(type KiCad)(uri ${KIPRJMOD}/libfp/pi-display-conn.pretty)(options "")(descr ""))
+  (lib (name esp-devkit)(type KiCad)(uri ${KIPRJMOD}/libfp/esp-devkit.pretty)(options "")(descr ""))
 )
