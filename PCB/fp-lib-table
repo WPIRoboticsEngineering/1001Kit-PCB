@@ -3,4 +3,5 @@
   (lib (name pi-display-conn)(type KiCad)(uri ${KIPRJMOD}/libfp/pi-display-conn.pretty)(options "")(descr ""))
   (lib (name esp-devkit)(type KiCad)(uri ${KIPRJMOD}/libfp/esp-devkit.pretty)(options "")(descr ""))
   (lib (name bob12009)(type KiCad)(uri ${KIPRJMOD}/libfp/bob12009.pretty)(options "")(descr ""))
+  (lib (name MC33926-Motor-Driver-Carrier)(type KiCad)(uri ${KIPRJMOD}/libfp/MC33926-Motor-Driver-Carrier.pretty)(options "")(descr ""))
 )
