@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name bob-12009)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/bob-12009.lib")(options "")(descr ""))
   (lib (name MC33926-Motor-Driver-Carrier)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/MC33926-Motor-Driver-Carrier.lib")(options "")(descr ""))
+  (lib (name stepper-module)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/stepper-module.lib")(options "")(descr ""))
 )
