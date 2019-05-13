@@ -3,7 +3,7 @@
   (lib (name MC33926-Motor-Driver-Carrier)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/MC33926-Motor-Driver-Carrier.lib")(options "")(descr ""))
   (lib (name stepper-module)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/stepper-module.lib")(options "")(descr ""))
   (lib (name polulu-3784-D36V28F7)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/polulu-3784-D36V28F7.lib")(options "")(descr ""))
-  (lib (name pi-display-connector)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/pi-display-connector.lib")(options "")(descr ""))
+  (lib (name pi-display-connector)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/pi-display-connector.lib")(options "")(descr ""))
   (lib (name arduino_mega)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/arduino_mega.lib")(options "")(descr ""))
   (lib (name esp-devkit)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/esp-devkit.lib")(options "")(descr ""))
 )
