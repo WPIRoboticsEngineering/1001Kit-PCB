@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:1001kit-pcb-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -42,7 +41,7 @@ U 1 1 5CD9452F
 P 8100 5650
 F 0 "U5" H 8378 6096 50  0000 L CNN
 F 1 "polulu-3784-D36V28F7" H 8378 6005 50  0000 L CNN
-F 2 "polulu-3784-dcdcreg:polulu-3784-D36V28F7" H 8050 5800 50  0001 C CNN
+F 2 "pi-display-conn:pi-display-header" H 8050 5800 50  0001 C CNN
 F 3 "" H 8050 5800 50  0001 C CNN
 	1    8100 5650
 	1    0    0    -1  
