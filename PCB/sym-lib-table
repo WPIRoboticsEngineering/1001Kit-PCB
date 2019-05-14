@@ -6,4 +6,5 @@
   (lib (name pi-display-connector)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/pi-display-connector.lib")(options "")(descr ""))
   (lib (name arduino_mega)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/arduino_mega.lib")(options "")(descr ""))
   (lib (name esp-devkit)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/esp-devkit.lib")(options "")(descr ""))
+  (lib (name power_rails)(type Legacy)(uri "C:/Users/Alex Camilo/Documents/1001Kit-PCB/PCB/libsch/power_rails.lib")(options "")(descr ""))
 )
